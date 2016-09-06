@@ -1,4 +1,4 @@
 Name: 
- Favorite Movie: 
- Favorite Food: 
- Favorite Candy:
+ Favorite Movie: The Big Short
+ Favorite Food: Jollof Rice
+ Favorite Candy: Hershey w/ Almonds
